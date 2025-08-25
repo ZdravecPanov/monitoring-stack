@@ -76,8 +76,6 @@ docker compose restart prometheus  # or: docker-compose restart prometheus
    - Linux Node Exporter: ID 1860
    - Windows Exporter: ID 10427
 
-Take screenshots of your dashboards and place them in ./screenshots/ for your portfolio.
-
 ---
 
 ## Install Windows Exporter (on your Windows VM)
